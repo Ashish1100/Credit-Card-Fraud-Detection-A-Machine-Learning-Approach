@@ -2,7 +2,7 @@
 
 # 🛡️ CreditGuard: AI-Powered Fraud Detection
 
-![CreditGuard Banner](https://example.com/creditguard-banner.png)
+![CreditGuard Banner](https://unsplash.com/photos/a-person-holding-a-credit-card-and-a-cell-phone-aGkR0b7hgI8)
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
