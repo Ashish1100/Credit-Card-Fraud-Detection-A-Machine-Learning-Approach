@@ -1,4 +1,4 @@
-# Credit-Card-Fraud-Detection-A-Machine-Learning-Approach
+# Credit Card Fraud Detection: A Machine Learning Approach
 
 # 🛡️ CreditGuard: AI-Powered Fraud Detection
 
